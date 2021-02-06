@@ -1,0 +1,5 @@
+﻿  KryptografiaProjekt.cpp
+C:\FILIP\STUDIA\SEMESTR_5\KRYPTOGRAFIA 2\KryptografiaProjekt\KryptografiaProjekt\KryptografiaProjekt.cpp(26,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\FILIP\STUDIA\SEMESTR_5\KRYPTOGRAFIA 2\KryptografiaProjekt\KryptografiaProjekt\KryptografiaProjekt.cpp(36,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\FILIP\STUDIA\SEMESTR_5\KRYPTOGRAFIA 2\KryptografiaProjekt\KryptografiaProjekt\KryptografiaProjekt.cpp(42,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  KryptografiaProjekt.vcxproj -> C:\FILIP\STUDIA\SEMESTR_5\KRYPTOGRAFIA 2\KryptografiaProjekt\Debug\KryptografiaProjekt.exe
